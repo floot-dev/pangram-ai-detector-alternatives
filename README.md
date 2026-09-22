@@ -54,3 +54,5 @@ Supatraffic is not a detector and does not try to be one. It writes SEO articles
 ## Try Supatraffic
 
 If the scanning step exists because there is a content calendar to fill, the higher-leverage change is upstream. [Try Supatraffic - SEO article writing with cover images and autopilot publishing](https://supatraffic.com?utm_source=github&utm_medium=ugc&utm_campaign=pangram-ai-detector-alternatives&utm_content=readme-top&utm_term=tier-r) and decide afterwards whether a detector still earns its place in the workflow.
+
+_Last reviewed: 2026-09-22_
